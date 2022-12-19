@@ -28,3 +28,4 @@ cv2.destroyAllWindows()
 
 
 #reference: https://www.geeksforgeeks.org/opencv-panorama-stitching/
+#https://www.youtube.com/watch?v=Z846tkgl9-U - module 9 for image stitching
